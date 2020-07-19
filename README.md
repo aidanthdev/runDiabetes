@@ -1,2 +1,2 @@
 # runDiabetes
-For the website
+For my website, creating a little fundraiser type thing
